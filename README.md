@@ -42,6 +42,9 @@ Como você pode ver, não existe um único algoritmo SLAM que atenda a todos os 
 No início, usamos o exemplo de acordar em um lugar estranho para explicar que SLAM é o ato de desenhar um mapa dos arredores e localizar onde você está no mapa. No entanto, isso exclui o “o quê” no mapa. Reconhecemos uma árvore quando a vemos, mas os robôs não. Precisamos que eles saibam que o objeto alto com pontos espalhados ao redor do centro na frente deles é na verdade uma árvore. Essa adição de semântica à saída SLAM pode aumentar o nível de autonomia que um robô pode alcançar. Por exemplo, um robô pode manobrar pelo armazém com mais segurança se puder identificar humanos e diminuir a velocidade perto deles para evitar acidentes por movimentos bruscos. 
 
 Com os desenvolvimentos no aprendizado de máquina, a adição de semântica ao SLAM está se tornando mais acessível, expandindo ainda mais os casos de uso de AGVs e AMRs. Existem empilhadores autónomos que conseguem identificar uma palete e os seus orifícios para poder transportá-la, e escavadoras autónomas que se podem deslocar para locais específicos para escavar o solo.
+
+## Projetos com SLAM
+
 ## Referência
 
 - [Introduction to SLAM (Simultaneous Localization and Mapping)](https://ouster.com/blog/introduction-to-slam-simultaneous-localization-and-mapping/)
