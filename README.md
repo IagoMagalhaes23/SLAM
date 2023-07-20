@@ -45,6 +45,12 @@ Com os desenvolvimentos no aprendizado de máquina, a adição de semântica ao 
 
 ## Projetos com SLAM
 
+## SLAM com WebCam
+
+## SLAM com Drone
+
+## SLAM com robô
+
 ## Referência
 
 - [Introduction to SLAM (Simultaneous Localization and Mapping)](https://ouster.com/blog/introduction-to-slam-simultaneous-localization-and-mapping/)
